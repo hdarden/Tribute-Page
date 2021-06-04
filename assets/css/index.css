@@ -1,0 +1,38 @@
+main {
+     text-align: center;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     background-color:#E8E8E8;
+}
+#title {
+     padding-top: 40px;
+     padding-bottom: 20px;
+}
+#img-div {
+     background-color: white;
+     padding-top: 10px;
+     padding-bottom: 10px;
+}
+#image {
+     width: 50%;
+}
+#tribute {
+     padding-top: 30px;
+     padding-bottom: 20px;
+}
+#tribute-info {
+     padding-left: 350px;
+     padding-right: 350px;
+     text-align: left;
+}
+li {
+     padding-top: 10px;
+     padding-bottom: 10px;
+}
+#tribute-quote {
+     text-align: left;
+     padding-left: 330px;
+     padding-right: 330px;
+}
+#tribute-blurb {
+     padding-bottom: 20px;
+}
